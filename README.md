@@ -2,3 +2,4 @@
 Web
 Twitter
 Instagram
+Medium
