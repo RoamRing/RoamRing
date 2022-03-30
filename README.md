@@ -5,3 +5,4 @@ Instagram
 Medium
 Linktree
 Reddit
+BscScan
