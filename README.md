@@ -8,3 +8,4 @@ Reddit
 BscScan
 Github
 Facebook
+Pinterest
