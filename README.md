@@ -7,7 +7,7 @@ Twitter:
 Instagram:
 
 Medium:
-Linktree
+Linktree:
 Reddit
 BscScan
 Github
