@@ -8,7 +8,7 @@ Instagram:
 
 Medium:
 Linktree:
-Reddit
+Reddit:
 BscScan
 Github
 Facebook
