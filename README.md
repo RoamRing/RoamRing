@@ -9,7 +9,7 @@ Instagram:
 Medium:
 Linktree:
 Reddit:
-BscScan
+BscScan:
 Github
 Facebook
 Pinterest
