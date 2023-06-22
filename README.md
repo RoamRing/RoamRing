@@ -10,6 +10,6 @@ Medium:
 Linktree:
 Reddit:
 BscScan:
-Github
+Github:
 Facebook
 Pinterest
