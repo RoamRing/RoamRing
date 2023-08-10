@@ -4,7 +4,7 @@ Web:-
 
 Twitter:-
 
-Instagram:
+Instagram:-
 
 Medium:
 Linktree:
