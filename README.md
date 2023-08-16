@@ -6,7 +6,7 @@ Twitter:-
 
 Instagram:-
 
-Medium:
+Medium:-
 Linktree:
 Reddit:
 BscScan:
